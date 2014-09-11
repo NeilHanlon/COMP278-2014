@@ -41,7 +41,7 @@ Create a new text file in your COMP278-2014 folder called practice.txt. In that 
 Next, stage, commit and push our stuff off to ensure git is working. You can also use Git Extensions to do this.
 
 ----
-cd COMP278-2014                 # Go into your folder
+cd ~/COMP278-2014               # Go into your folder
 git add practice.txt            # Stage practice.txt (include in next commit)
 git commit -m "Git practice"    # Commit changes with a message
 git push origin master          # Send work to your private repository
@@ -57,5 +57,6 @@ git push origin master          # Send work to your private repository
 
 === https://github.com/lawrancej/COMP278-2014/blob/master/SyllabusCOMP278Lawrance.docx?raw=true[Syllabus (Word document)]
 
-* The textbook is recommended, but not required. https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md[Here's some free textbooks instead.]
-* As long as we're here, https://github.com/sindresorhus/awesome[check out some awesome stuff].
+* The textbook is recommended, but not required. Let's use free books, instead:
+** http://www.allaboutcircuits.com/vol_4/[Lessons in Electric Circuits], http://www.kolls.net/cml/cml-sep1.pdf[Computer Mathematics and Logic], and https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md[a ton of free textbooks]
+* Also, https://github.com/sindresorhus/awesome[check out some awesome stuff].

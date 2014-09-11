@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Oranges.
+=======
+How to setup git without any issues at all.
+And here's through git gui.
+>>>>>>> 2258c47da9b96539f120dc1c0c2cab6e82bf314c
